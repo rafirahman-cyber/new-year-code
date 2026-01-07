@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.font-open-sans {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  
+}
+
+.hero-parent{
+  height: 809px;
+  background-color: aqua;
+  background-image: url("images/banner2.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  
+}
+
+div{
+  text-align: right;
+  padding: 216px 213px 365px 862px;
+}
+
+h3{
+  font-size: 65px;
+  font-weight: bold;
+  line-height: auto;
+  color: #151414;
+}
+
+p{
+  font-size: 16px;
+  line-height: 26px;
+  color: #444343;
+  padding-bottom: 32px;
+}
+
+.hero-parent .btn{
+  width: 160px;
+  height: 64px;
+  border-radius: 5px;
+  background-color: rgba(241, 91, 34, 1);
+  color: rgba(255, 255, 255, 1);
+
+}
